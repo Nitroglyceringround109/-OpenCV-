@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="cascades/haarcascade_frontalface_alt2.xml">../../resources/cascades/haarcascade_frontalface_alt2.xml</file>
+        <file alias="cascades/haarcascade_profileface.xml">../../resources/cascades/haarcascade_profileface.xml</file>
+        <file alias="models/deploy.prototxt">../../resources/models/deploy.prototxt</file>
+    </qresource>
+</RCC>

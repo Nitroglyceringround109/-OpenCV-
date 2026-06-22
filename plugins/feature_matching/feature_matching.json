@@ -1,0 +1,6 @@
+{
+    "name": "Feature Matching",
+    "version": "1.0.0",
+    "author": "Smart Vision Workbench",
+    "processors": ["orb", "sift"]
+}

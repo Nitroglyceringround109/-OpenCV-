@@ -1,0 +1,6 @@
+{
+    "name": "Filtering",
+    "version": "1.0.0",
+    "author": "Smart Vision Workbench",
+    "processors": ["gaussian", "median", "bilateral"]
+}

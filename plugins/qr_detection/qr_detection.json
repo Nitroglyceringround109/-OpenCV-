@@ -1,0 +1,6 @@
+{
+    "name": "QR Detection",
+    "version": "1.0.0",
+    "author": "Smart Vision Workbench",
+    "processors": ["qr"]
+}

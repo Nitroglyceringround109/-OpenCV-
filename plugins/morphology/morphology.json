@@ -1,0 +1,6 @@
+{
+    "name": "Morphology",
+    "version": "1.0.0",
+    "author": "Smart Vision Workbench",
+    "processors": ["erode", "dilate", "openclose", "gradient"]
+}

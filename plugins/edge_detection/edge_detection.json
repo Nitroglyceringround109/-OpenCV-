@@ -1,0 +1,6 @@
+{
+    "name": "Edge Detection",
+    "version": "1.0.0",
+    "author": "Smart Vision Workbench",
+    "processors": ["canny", "sobel", "laplacian"]
+}

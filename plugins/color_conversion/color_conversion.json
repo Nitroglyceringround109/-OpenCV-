@@ -1,0 +1,6 @@
+{
+    "name": "Color Conversion",
+    "version": "1.0.0",
+    "author": "Smart Vision Workbench",
+    "processors": ["grayscale", "hsv"]
+}

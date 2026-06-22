@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#1e1e1e"/>
+  <rect x="40" y="520" width="1200" height="160" rx="8" fill="#252525" stroke="#007acc"/>
+  <rect x="360" y="40" width="880" height="460" rx="8" fill="#2d2d2d" stroke="#3d3d3d"/>
+  <text x="640" y="280" fill="#666" font-family="Segoe UI, Arial, sans-serif" font-size="28" text-anchor="middle">Replace: pipeline.png</text>
+  <text x="640" y="320" fill="#888" font-family="Segoe UI, Arial, sans-serif" font-size="18" text-anchor="middle">Processing pipeline + processor list</text>
+</svg>

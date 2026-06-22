@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#1e1e1e"/>
+  <rect x="40" y="40" width="600" height="320" rx="8" fill="#2d2d2d" stroke="#3d3d3d"/>
+  <rect x="660" y="40" width="580" height="320" rx="8" fill="#2d2d2d" stroke="#3d3d3d"/>
+  <rect x="40" y="380" width="1200" height="300" rx="8" fill="#252525" stroke="#3d3d3d"/>
+  <text x="640" y="330" fill="#666" font-family="Segoe UI, Arial, sans-serif" font-size="28" text-anchor="middle">Replace: comparison.png</text>
+  <text x="640" y="370" fill="#888" font-family="Segoe UI, Arial, sans-serif" font-size="18" text-anchor="middle">Before / after comparison view</text>
+</svg>

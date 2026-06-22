@@ -1,0 +1,6 @@
+{
+    "name": "Threshold",
+    "version": "1.0.0",
+    "author": "Smart Vision Workbench",
+    "processors": ["binary", "adaptive", "otsu"]
+}

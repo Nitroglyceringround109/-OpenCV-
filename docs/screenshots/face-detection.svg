@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#1e1e1e"/>
+  <rect x="200" y="80" width="880" height="520" rx="8" fill="#2d2d2d" stroke="#4CAF50"/>
+  <rect x="220" y="120" width="120" height="140" rx="4" fill="none" stroke="#4CAF50" stroke-width="3"/>
+  <rect x="420" y="140" width="130" height="150" rx="4" fill="none" stroke="#4CAF50" stroke-width="3"/>
+  <text x="640" y="660" fill="#666" font-family="Segoe UI, Arial, sans-serif" font-size="28" text-anchor="middle">Replace: face-detection.png</text>
+  <text x="640" y="690" fill="#888" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle">DNN / Haar face detection example</text>
+</svg>

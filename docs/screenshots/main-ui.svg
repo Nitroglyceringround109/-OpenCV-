@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#1e1e1e"/>
+  <rect x="40" y="40" width="300" height="640" rx="8" fill="#252525" stroke="#3d3d3d"/>
+  <rect x="360" y="40" width="880" height="520" rx="8" fill="#2d2d2d" stroke="#3d3d3d"/>
+  <rect x="360" y="580" width="880" height="100" rx="8" fill="#252525" stroke="#3d3d3d"/>
+  <text x="640" y="310" fill="#666" font-family="Segoe UI, Arial, sans-serif" font-size="28" text-anchor="middle">Replace: main-ui.png</text>
+  <text x="640" y="350" fill="#888" font-family="Segoe UI, Arial, sans-serif" font-size="18" text-anchor="middle">Main window � canvas + dock panels</text>
+</svg>

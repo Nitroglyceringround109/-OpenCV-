@@ -1,0 +1,49 @@
+# Build
+build/
+cmake-build-*/
+out/
+
+# Qt / IDE
+*.user
+*.user.*
+*.autosave
+CMakeLists.txt.user
+*.creator
+*.creator.user
+.qtc_clangd/
+.qtc/
+*.pro.user*
+
+# Compiled
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Generated
+*_autogen/
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Makefile
+*.ninja
+.ninja_deps
+.ninja_log
+compile_commands.json
+
+# DNN weights (large binary — download via scripts/download_dnn_models.bat)
+resources/models/*.caffemodel
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temp
+*.log
+*.tmp
+*~
